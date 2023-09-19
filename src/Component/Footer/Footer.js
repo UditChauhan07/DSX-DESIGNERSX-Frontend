@@ -3,6 +3,7 @@ import Logo from '../../img/logo.webp'
 
 function Footer() {
   return (
+    <>
     <div className='footer bg-Image'>
       <div className='container'>
         
@@ -66,6 +67,18 @@ function Footer() {
         </div>
       </div>
     </div>
+    <div className='menu-bottom-Mobile'>
+    <div className='nav-bottom'>
+      <ul>
+       
+      <a href="tel:%20+1%20888-606-0363" data-hover="Call Now">Call Now</a>
+       
+
+        <li><a href='https://designersx.setmore.com/dxstaff'>Book a Discussion</a></li>
+      </ul>
+    </div>
+    </div>
+    </>
   )
 }
 
