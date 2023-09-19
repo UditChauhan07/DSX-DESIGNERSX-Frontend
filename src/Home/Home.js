@@ -13,6 +13,7 @@ import SecureGuaranty from '../Component/SecureGuaranty'
 import TeamDesignerx from '../Component/TeamDesignerx'
 import AwardRecognition from '../Component/AwardRecognition'
 import Locations from '../Component/Locations'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function Home() {

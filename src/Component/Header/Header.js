@@ -33,9 +33,7 @@ function Header() {
                                 <label for="showMega" class="mobile-item">Mega Menu</label>
                                 <div class="mega-box">
                                     <div class="content">
-                                        <div class="row">
-                                            <img src="https://fadzrinmadu.github.io/hosted-assets/responsive-mega-menu-and-dropdown-menu-using-only-html-and-css/img.jpg" alt="" />
-                                        </div>
+                                       
                                         <div class="row">
                                             <header>Design Services</header>
                                             <ul class="mega-links">
@@ -60,7 +58,7 @@ function Header() {
                                                 <li><a href="#">Site Seal</a></li>
                                                 <li><a href="#">VPS Hosting</a></li>
                                                 <li><a href="#">Privacy Seal</a></li>
-                                                <li><a href="#">Website design</a></li>
+                                                <li><a href="#">Website designs</a></li>
                                             </ul>
                                         </div>
                                     </div>
